@@ -1,0 +1,9 @@
+2018-03-04 14:07:15 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "WAREHOUSE" not found; SQL statement:
+DROP TABLE `WAREHOUSE`  [42102-195]
+2018-03-04 14:07:15 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "BUILDING" not found; SQL statement:
+DROP TABLE `BUILDING`  [42102-195]
+2018-03-04 14:07:15 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "SAMPLES" not found; SQL statement:
+DROP TABLE `SAMPLES`  [42102-195]
